@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso43kung_0080.png"; bbox 0 0 2030 2963; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 557 748 1581 985">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 557 748 1581 985">
+     <span class='ocr_line' id='line_1_1' title="bbox 557 748 1581 811; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 557 748 973 809; x_wconf 75' lang='lat' dir='ltr'><strong>EMANUELIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1022 750 1581 811; x_wconf 84' lang='lat' dir='ltr'>SWEDENBORGII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 855 924 1287 985; baseline 0.005 -2"><span class='ocrx_word' id='word_1_3' title='bbox 855 924 1287 985; x_wconf 77' lang='lat' dir='ltr'><strong>ITINERARIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 561 1274 1575 1351">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 561 1274 1575 1351">
+     <span class='ocr_line' id='line_1_3' title="bbox 561 1274 1575 1351; baseline 0.002 -3"><span class='ocrx_word' id='word_1_4' title='bbox 561 1274 1575 1351; x_wconf 74' lang='lat' dir='ltr'>RESEBESKRIFNINGAR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 651 1589 1485 1651">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 651 1589 1485 1651">
+     <span class='ocr_line' id='line_1_4' title="bbox 651 1589 1485 1651; baseline 0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 651 1589 969 1650; x_wconf 81' lang='lat' dir='ltr'><strong>EMANUEL</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1021 1591 1485 1651; x_wconf 83' lang='lat' dir='ltr'>SWEDENBORG</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 960 1890 1180 1926">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 960 1890 1180 1926">
+     <span class='ocr_line' id='line_1_5' title="bbox 960 1890 1180 1926; baseline 0.005 -1"><span class='ocrx_word' id='word_1_7' title='bbox 960 1890 1180 1926; x_wconf 78' lang='lat'>1710—1739</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 573 2161 1572 2210">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 573 2161 1572 2210">
+     <span class='ocr_line' id='line_1_6' title="bbox 573 2161 1572 2210; baseline 0.004 -4"><span class='ocrx_word' id='word_1_8' title='bbox 573 2161 779 2207; x_wconf 78' lang='lat' dir='ltr'><strong>KUNGL,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 816 2162 1572 2210; x_wconf 77' lang='lat' dir='ltr'><strong>VETENSKAPSAKADEMIEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 813 2310 1331 2347">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 813 2310 1331 2347">
+     <span class='ocr_line' id='line_1_7' title="bbox 813 2310 1331 2347; baseline 0.006 -3"><span class='ocrx_word' id='word_1_10' title='bbox 813 2310 892 2345; x_wconf 90' lang='lat' dir='ltr'>DEN</span> <span class='ocrx_word' id='word_1_11' title='bbox 922 2310 962 2345; x_wconf 82' lang='grc'>19</span> <span class='ocrx_word' id='word_1_12' title='bbox 993 2310 1219 2345; x_wconf 81' lang='lat' dir='ltr'>NOVEMBER</span> <span class='ocrx_word' id='word_1_13' title='bbox 1248 2311 1331 2347; x_wconf 82' lang='lat'>1910</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
